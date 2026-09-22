@@ -29,7 +29,7 @@ Currently a Full Stack Developer at Alpha3Digital. **Open to relocation to Germa
 
 | Project | What it is | Stack |
 |---|---|---|
-| [MonkMaze](https://github.com/AmirMaqbool0/Monk_Backend) | Lead generation & business automation platform | Next.js · Node.js · Express.js · MongoDB |
+| | [MonkMaze](https://github.com/AmirMaqbool0/MonkMaze_Backend) | Lead generation & business automation platform | Next.js · Node.js · Express.js · MongoDB |
 | [Zeppler](https://github.com/AmirMaqbool0/Zeppler_Online_Dating) | Real-time dating platform with Socket.IO chat | React · Node.js · Express.js · MongoDB · Socket.IO |
 | [TribeMe](https://github.com/AmirMaqbool0/TribeMe) | Multi-brand marketplace dashboard | Next.js · Node.js · Express.js · MongoDB |
 | [Cloud Vapours](https://github.com/AmirMaqbool0/Cloud_vapours) | E-commerce platform with Stripe checkout | React · Node.js · Express.js · MongoDB · Stripe |
